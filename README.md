@@ -2,4 +2,6 @@
 
 Contains a sentiment analysis from Thailand news
 
-**Pre process dataset is [thai_sentiment_dataset](https://drive.google.com/file/d/1-8S4kQ6B3sd79Yr0VGmKkpE_r_buRdc9/view?usp=sharing)**
+---
+
+**Pre process [dataset](https://drive.google.com/file/d/1-8S4kQ6B3sd79Yr0VGmKkpE_r_buRdc9/view?usp=sharing)**
